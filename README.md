@@ -1,5 +1,6 @@
 # Generative_Art
 Scripts for generative art
+
 Please cite this repository if you use any of these scripts in your projects.
 
 ## 1. Adjacency_matrix_from_image.ipynb
