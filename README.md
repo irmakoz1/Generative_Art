@@ -3,6 +3,8 @@ Scripts for generative art
 
 ## 1. Adjacency_matrix_from_image.ipynb
 
+*Works best with images with multiple objects. Plotting relationships between different object classifications based on Euclidian distances.*
+
 <img width="1593" height="682" alt="image" src="https://github.com/user-attachments/assets/fe63550b-2855-41a9-976f-6fba1d82908e" />
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/irmakoz1/Generative_Art/blob/main/Adjacency_matrix_from_image.ipynb)
